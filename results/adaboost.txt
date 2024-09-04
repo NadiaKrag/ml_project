@@ -1,0 +1,11 @@
+Top ten highest out-of-fold accuracies (with std):
+108, 0.8280, 0.0183, {'m_estimators': 109}
+79, 0.8280, 0.0147, {'m_estimators': 80}
+93, 0.8260, 0.0338, {'m_estimators': 94}
+95, 0.8260, 0.0372, {'m_estimators': 96}
+73, 0.8240, 0.0273, {'m_estimators': 74}
+64, 0.8220, 0.0319, {'m_estimators': 65}
+139, 0.8220, 0.0232, {'m_estimators': 140}
+82, 0.8200, 0.0374, {'m_estimators': 83}
+121, 0.8200, 0.0434, {'m_estimators': 122}
+111, 0.8200, 0.0420, {'m_estimators': 112}

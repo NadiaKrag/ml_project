@@ -1,0 +1,9 @@
+MDA
+Test accuracy: 0.8384
+-----------------------
+Logistic Regression
+Test accuracy: 0.782
+-----------------------
+AdaBoost
+Test accuracy: 0.82
+-----------------------

@@ -1,0 +1,11 @@
+Top ten highest out-of-fold accuracies (with std):
+170, 0.8080000, 0.0293321, {'s': 0.7229166666666667, 'basis_name': 'rbf', 'M_array': array([9, 7])}
+150, 0.8080000, 0.0299075, {'s': 0.64375, 'basis_name': 'rbf', 'M_array': array([9, 7])}
+238, 0.8080000, 0.0256321, {'s': 0.9604166666666667, 'basis_name': 'sbf', 'M_array': array([7, 4])}
+55, 0.8060000, 0.0215626, {'s': 0.24791666666666667, 'basis_name': 'sbf', 'M_array': array([9, 7])}
+125, 0.8040000, 0.0353105, {'s': 0.525, 'basis_name': 'sbf', 'M_array': array([9, 7])}
+60, 0.8040000, 0.0223907, {'s': 0.2875, 'basis_name': 'rbf', 'M_array': array([9, 7])}
+220, 0.8020000, 0.0443870, {'s': 0.9208333333333334, 'basis_name': 'rbf', 'M_array': array([9, 7])}
+56, 0.8020000, 0.0164075, {'s': 0.24791666666666667, 'basis_name': 'sbf', 'M_array': array([4, 8])}
+57, 0.8000000, 0.0273389, {'s': 0.24791666666666667, 'basis_name': 'sbf', 'M_array': array([7, 6])}
+158, 0.8000000, 0.0400559, {'s': 0.64375, 'basis_name': 'sbf', 'M_array': array([7, 4])}
